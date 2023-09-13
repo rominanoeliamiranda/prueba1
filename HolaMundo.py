@@ -1,13 +1,12 @@
 
 print("Bienvenidos chicos a Prgramacion II ")
 
-print("2023")
-
-print("chau")
+print(" trabajando en grupo con branch")
 
 
 
-print("chau chau  nuevamente")
+
+
 
 
 
