@@ -1,8 +1,8 @@
 
-print("Bienvenidos chicos a Prgramacion II ")
+print("Bienvenidos chicos al curso de git  ") 
 
-print(" trabajando en grupo con branch")
 
+print("chau")
 
 
 
